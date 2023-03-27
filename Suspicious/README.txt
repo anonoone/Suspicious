@@ -1,1 +1,1 @@
-run runall.py to reproduce all results from Suspicious implementations and unsupervised baselines.
+run runall.py to reproduce all results from Suspicious implementations and unsupervised baselines Dominant, AnomalyDAE, Anomalous.
